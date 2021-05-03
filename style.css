@@ -6,8 +6,18 @@ body {
     background-color: #f6e58d;
 }
 
+p {
+    margin: 5px 0;
+}
+
 h1,
  h2 {
     font-family: "Rubik", sans-serif;
     color: #130f40;
+    margin: 5px 0;
+}
+
+i {
+    color: #eb4d4b;
+    margin-left: 45px;
 }
