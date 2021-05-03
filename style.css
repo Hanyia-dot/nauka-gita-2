@@ -2,8 +2,11 @@ body {
     font-family: "Roboto Mono", monospace;
     margin-left: 38%;
     margin-top: 100px;
+    color: #30336b;
+    background-color: #f6e58d;
 }
 
 h1 h2 {
     font-family: "Rubik", sans-serif;
+    color: #130f40;
 }
