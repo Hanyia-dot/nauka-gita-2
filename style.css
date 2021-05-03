@@ -6,7 +6,8 @@ body {
     background-color: #f6e58d;
 }
 
-h1 h2 {
+h1,
+ h2 {
     font-family: "Rubik", sans-serif;
     color: #130f40;
 }
