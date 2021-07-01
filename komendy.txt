@@ -1,0 +1,7 @@
+< p > 
+  < przycisk > Kliknij mnie! </ button > 
+  < div  id = " show-me " >
+    Lorem ipsum
+  </ div > 
+</ p >
+
